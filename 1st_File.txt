@@ -1,1 +1,5 @@
-File ! is now completely Overhauled and is acting as devB
+
+File ! is now completely Overhauled and is acting as devB _ Conflict Resolved
+
+File 1 Initialized and Cloned Git Repo _ Original Push
+
